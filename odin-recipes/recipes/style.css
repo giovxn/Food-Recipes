@@ -1,0 +1,85 @@
+* {
+margin: 4px;
+box-sizing: border-box;
+}
+
+div {
+    background-color: seashell;
+    font-family: sans-serif, tahoma;
+}
+
+.heading {
+    background-color:darkslategray;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    padding: 20px;
+  
+}
+
+.sub-heading {
+    text-align: center;
+    background-color: dimgray;
+    border: none;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-family: tahoma, sans-serif;
+    padding: 5px;
+}
+
+.first {
+    font-size: 19px;
+    margin: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#ingredients {
+    font-size: 20px;
+    margin: 20px;
+}
+
+#steak {
+    align-self: center;
+}
+
+#img {
+    align-content: center;
+}
+
+#steps {
+    padding-bottom: 20px;
+    margin: 20px;
+    font-size: 17;
+}
+
+.category {
+    color: black;
+    text-align: center;
+    padding: 30px;
+    font-size: 39px;
+}
+
+#text {
+    font-weight: 100;
+}
+
+#hyperlink {
+    font-size: 12px;
+}
+
+#back {
+    text-align: right;
+    padding: 20px;
+}
+
+.button {
+    font-weight: bold;
+    font-size: 23px;
+    background-color: darkslategrey;
+    color: whitesmoke;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
