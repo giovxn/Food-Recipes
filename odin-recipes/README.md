@@ -1,1 +1,2 @@
-This project will showcase my skill in creating a website through HTML, the content will include recipes of a product.
+This project will showcase food recipes that is created with HTML and designed with CSS from scratch.
+
